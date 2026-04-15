@@ -17,6 +17,7 @@ SDA        GPIO 21         Serial Data Line
 
 >>optional to add power supply to directly power the esp32<<
 
+NOTE: user adruino IDE or Esp 32 IDE to upload the code
 
 How to use?
 1. Power the esp32
